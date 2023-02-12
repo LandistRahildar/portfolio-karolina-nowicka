@@ -1,6 +1,6 @@
-.digialConceptArts {
-    /* display: grid; */
-}
+/* .digialConceptArts {
+    display: grid;
+} */
 
 .digitalConceptArts__heading {
     border-bottom: 2px solid black;
@@ -8,5 +8,7 @@
 }
 
 .digitalConceptArts__element {
+    border-radius: 50px;
     padding: 10px;
+    
 }
