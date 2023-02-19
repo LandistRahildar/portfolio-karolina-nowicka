@@ -1,0 +1,5 @@
+.header__heading {
+    /* text-decoration-line: underline; */
+    border-bottom: 3px solid black;
+    padding: 5px;
+}
